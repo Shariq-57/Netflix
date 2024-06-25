@@ -1,9 +1,9 @@
 import React from 'react';
-import image from '../Netflix img/image.png'
+import image from '../assets/image.png'
 import Netflix_header from '../Netflix header/Netflix_header';
 import Netflix_main from '../Netflix main/Netflix_main';
 
-function    Netflix_index() {
+function Netflix_index() {
     return (
         <div>
             <div className='w-full h-screen' style={{ backgroundImage: `url("${image}")` }}>

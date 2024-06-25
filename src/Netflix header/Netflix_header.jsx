@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../Netflix img/logo.png'
+import logo from '../assets/logo.png'
 
 function Netflix_header() {
     return (
